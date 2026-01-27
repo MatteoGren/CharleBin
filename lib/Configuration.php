@@ -10,7 +10,7 @@
  * @version   1.5.1
  */
 
-namespace CharleBin;
+namespace PrivateBin;
 
 use Exception;
 use PDO;

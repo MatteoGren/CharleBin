@@ -8,6 +8,9 @@
  * @copyright 2012 Sébastien SAUVAGE (sebsauvage.net)
  * @license   https://www.opensource.org/licenses/zlib-license.php The zlib/libpng License
  * @version   1.5.1
+ * @package   PrivateBin
+ * @category  Core
+ * @author    Sébastien SAUVAGE <
  */
 
 namespace PrivateBin;
@@ -19,6 +22,11 @@ use Exception;
  *
  * Forwards a URL for shortening to YOURLS (your own URL shortener) and stores
  * the result.
+ * @package  PrivateBin
+ * @category Core
+ * @author   Sébastien SAUVAGE <sebsauvage.net>
+ * @license  https://www.opensource.org/licenses/zlib-license.php The zlib/libpng License
+ * @link 
  */
 class YourlsProxy
 {

@@ -26,7 +26,7 @@ use Exception;
  * @category Core
  * @author   Sébastien SAUVAGE <sebsauvage.net>
  * @license  https://www.opensource.org/licenses/zlib-license.php The zlib/libpng License
- * @link 
+ * @link https://github.com/PrivateBin/PrivateBin
  */
 class YourlsProxy
 {
